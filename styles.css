@@ -1,0 +1,22 @@
+body {
+    background-color: beige;
+    color:#fd581c;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Gowun Batang", serif;
+    font-style: normal;
+}
+
+h1{
+    font-size: 72px;
+    line-height: 90%;
+    letter-spacing: -2px;
+}
+
+h2{
+font-weight: 400;
+text-transform: uppercase;
+    border-width: 4px;
+    border-style: double;
+}
